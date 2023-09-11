@@ -37,6 +37,10 @@ button {
     margin-bottom: 35px;
 }
 
+button:hover {
+    background: #0aa471;
+}
+
 #pass-container {
     display: flex;
     flex-direction: row;
