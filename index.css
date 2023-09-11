@@ -38,7 +38,17 @@ button {
 }
 
 button:hover {
-    background: #0aa471;
+    background: #0dae79;
+}
+
+button:active {
+    background: #089c6b;
+    box-shadow: inset 2px 2px 4px 1px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 2px;
+    transform: scale(0.99);
+    color: #f1f1f1;
+
 }
 
 #pass-container {
