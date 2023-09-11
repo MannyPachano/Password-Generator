@@ -35,7 +35,6 @@ button {
     border: none;
     padding: 9px 16px;
     margin-bottom: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #pass-container {
@@ -55,4 +54,5 @@ button {
     align-items: center;
     color: #55F991;
     margin: 35px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
